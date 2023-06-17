@@ -32,4 +32,5 @@ This script allows you to monitor and analyze the CPU and memory usage of Amazon
    5. Exit: Exits the script.
 
 Follow the instructions based on your chosen option.
+
 **Note**: The script relies on the boto3 library and AWS credentials for accessing EC2 instances and CloudWatch metrics. Ensure that your credentials have appropriate permissions to retrieve the required information.
